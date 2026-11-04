@@ -20,3 +20,27 @@
   color: #f4f4fd;
   max-width: 264px;
 }
+
+.footer-content {
+  display: flex;
+}
+
+.footer-block-1 {
+  margin-right: 120px;
+}
+
+.footer .socials-list {
+  display: flex;
+  gap: 16px;
+}
+
+.footer .socials-item:hover,
+.footer .socials-item:focus {
+  background-color: #31d0aa;
+}
+
+.socials-text {
+  color: #fff;
+  font-weight: 500;
+  margin-bottom: 16px;
+}
